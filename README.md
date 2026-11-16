@@ -3,6 +3,9 @@
 
 一个基于 FastAPI + 原生前端实现的通讯录管理系统，支持联系人增删改查、收藏标记、多条联系方式管理以及 Excel 导入导出。本项目为极限编程（XP）结对作业。
 
+## 仓库链接
+https://github.com/haoxihuanvvjiea/address-book-xp
+
 ## 功能特性
 
 - 联系人增删改查（CRUD）
